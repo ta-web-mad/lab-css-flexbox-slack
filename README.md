@@ -28,7 +28,7 @@ Create Pull Request so your TAs can check up your work.
 
 ## Exercise
 
-The **starter_code** contains the basic structure of an HTML & CSS project to start working. You will also find and **images** folder where all the images you will need for the project are stored.
+This repository contains the basic structure of an HTML & CSS project to start working. You will also find and **images** folder where all the images you will need for the project are stored.
 
 **In the HTML you find all the text needed! Focus on give it some style!**
 
@@ -36,7 +36,7 @@ The **starter_code** contains the basic structure of an HTML & CSS project to st
 
 Mobile first right? :wink: 
 
-First, we are going to clone the mobile design of the webpage! 📱 Oh! Remember to use **flexbox**, because it will be really helpful later on when we need to adapt it to different screen-size!
+First, we are going to clone the mobile design of the webpage! 📱 Oh! Remember to use **flexbox** and **bootstrap**, because it will be really helpful later on when we need to adapt it to different screen-size!
  
 After doing your magic, you should have something like this:
 
